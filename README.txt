@@ -1,4 +1,8 @@
 This challenge was a bit difficult for me but I did it within 3 days and completed it before the due date. 
+The git pull, git commit, git etc. commands, I have to get use to. Atleast I now know |git add 'x'| basically marks the file/folder(?) as "READY TO BE COMMIT", which then means I have to write a commit (in Orange) to make it ready to be PUSHED as |git push| with pushed all commit changes to the repository in Git Hub
+
+
+
 
 List of things learned/solved:
   1. I learned how to to 'and' for conditional 'if'
